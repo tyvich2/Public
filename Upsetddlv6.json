@@ -1,0 +1,13 @@
+{
+	"file": "https://raw.githubusercontent.com/tyvich2/Public/master/Clean.csv",
+	"name": "Test_Revenue",
+	"header": 0,
+	"separator": ",",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Name" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 7 }
+	]
+}
